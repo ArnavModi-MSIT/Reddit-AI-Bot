@@ -119,10 +119,6 @@ Logs are written to `reddit_bot.log` with the following information:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Disclaimer
 
 This bot is for educational purposes. Make sure to follow Reddit's API terms of service and bot guidelines when using this code.
